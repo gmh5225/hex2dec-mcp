@@ -9,7 +9,7 @@ A simple MCP server that provides conversion between hexadecimal and decimal num
 
 ## Build
 ```bash
-npm install && npm run build    # Build only
+npm install && npm run build 
 ```
 
 ## Configuration
