@@ -12,10 +12,6 @@ A simple MCP server that provides conversion between hexadecimal and decimal num
 npm install && npm run build    # Build only
 ```
 
-## Available Analysis Tools
-- Hexadecimal to Decimal
-- Decimal to Hexadecimal
-
 ## Configuration
 Add the following configuration:
 ```json
